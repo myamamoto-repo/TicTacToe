@@ -4,6 +4,8 @@
 
 # Welcome to the My Tic Tac Toe game.
 
+Note: Sorry, it only supports Windows.
+
 The functions are as follows :
 
 - This game is a command line game
@@ -25,29 +27,26 @@ Please enjoy the game!!
 <p align="right">(<a href="#top">back to top</a>)</p>
     <br />
 
-<!-- GETTING STARTED -->
+## Release
 
-## Getting Started
-
-This is an example of how you can start the game
-
-<!-- USAGE EXAMPLES -->
+- [TicTacToe.exe](https://github.com/myamamoto-repo/TicTacToe/releases/tag/v1.0.0)
 
 ## Usage
 
-1. Please select first or second(input y or n)
+1. Please run TicTacToe.exe
+2. Please select first or second(input y or n)
 <p align="center">
   <img width="600" src="./images/1.png">
 </p>
 
-2. Enter the location from 0 to 8 according to the displayed information
+3. Enter the location from 0 to 8 according to the displayed information
 <p align="center">
   <img width="600" src="./images/2.png">
 </p>
 
-3. The computer will automatically determine the location
+4. The computer will automatically determine the location
 
-4. Result will show automatically.Enter 'y' to continue playing. 
+5. Result will show automatically.Enter 'y' to continue playing. 
 <p align="center">
   <img width="600" src="./images/3.png">
 </p>
