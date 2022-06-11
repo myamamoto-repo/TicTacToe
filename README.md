@@ -29,6 +29,8 @@ Please enjoy the game!!
 
 ## Release
 
+Only exe can be downloaded from the following link.
+
 - [TicTacToe.exe](https://github.com/myamamoto-repo/TicTacToe/releases/tag/v1.0.0)
 
 ## Usage
