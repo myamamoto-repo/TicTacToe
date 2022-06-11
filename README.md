@@ -42,14 +42,14 @@ This is an example of how you can start the game
 
 2. Enter the location from 0 to 8 according to the displayed information
 <p align="center">
-  <img width="250" src="./images/2.png">
+  <img width="600" src="./images/2.png">
 </p>
 
 3. The computer will automatically determine the location
 
 4. Result will show automatically.Enter 'y' to continue playing. 
 <p align="center">
-  <img width="300" src="./images/3.png">
+  <img width="600" src="./images/3.png">
 </p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
